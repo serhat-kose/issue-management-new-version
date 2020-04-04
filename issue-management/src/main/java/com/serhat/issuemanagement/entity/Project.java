@@ -4,9 +4,6 @@ import lombok.*;
 
 import javax.persistence.*;
 
-/**
- * Created by temelt on 3.02.2019.
- */
 @Entity
 @Table(name = "project")
 @Data

@@ -5,9 +5,7 @@ import lombok.*;
 import javax.persistence.*;
 import java.util.List;
 
-/**
- * Created by temelt on 3.02.2019.
- */
+
 @Entity
 @Table(name = "users")
 @Data
